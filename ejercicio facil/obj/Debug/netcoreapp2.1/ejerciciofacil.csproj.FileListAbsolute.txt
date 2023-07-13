@@ -1,0 +1,14 @@
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\bin\Debug\netcoreapp2.1\ejerciciofacil.deps.json
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\bin\Debug\netcoreapp2.1\ejerciciofacil.runtimeconfig.json
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\bin\Debug\netcoreapp2.1\ejerciciofacil.runtimeconfig.dev.json
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\bin\Debug\netcoreapp2.1\ejerciciofacil.dll
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\bin\Debug\netcoreapp2.1\ejerciciofacil.pdb
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\obj\Debug\netcoreapp2.1\ejerciciofacil.csprojAssemblyReference.cache
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\obj\Debug\netcoreapp2.1\ejerciciofacil.csproj.CoreCompileInputs.cache
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\obj\Debug\netcoreapp2.1\ejerciciofacil.RazorAssemblyInfo.cache
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\obj\Debug\netcoreapp2.1\ejerciciofacil.RazorAssemblyInfo.cs
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\obj\Debug\netcoreapp2.1\ejerciciofacil.AssemblyInfoInputs.cache
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\obj\Debug\netcoreapp2.1\ejerciciofacil.AssemblyInfo.cs
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\obj\Debug\netcoreapp2.1\ejerciciofacil.RazorTargetAssemblyInfo.cache
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\obj\Debug\netcoreapp2.1\ejerciciofacil.dll
+C:\Users\j.cornejo\source\repos\ejercicio facil\ejercicio facil\obj\Debug\netcoreapp2.1\ejerciciofacil.pdb
